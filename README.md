@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mutindi Hope</h1>
-<h3 align="center">A passionate frontend & Backend developer from Kenya</h3>
+<h3 align="center">A passionate Full Stack Developer from Kenya</h3>
 <img align="right" alt ="Coding" width="300"src=https://media.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msndindi&label=Profile%20views&color=0e75b6&style=flat" alt="msndindi" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mutindihope14@gmail.com**
 
-- ⚡ Fun fact **I love taking care of plants,playing video games & cooking**
+- ⚡ Fun fact **I love taking care of plants, playing video games & cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
