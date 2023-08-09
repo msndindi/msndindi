@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [http://mutindihopehome.wordpress.com](http://mutindihopehome.wordpress.com)
 
-- 💬 Ask me about **Fullstack development**
+- 💬 Ask me about **Best Coding Practices**
 
 - 📫 How to reach me **mutindihope14@gmail.com**
 
