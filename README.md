@@ -33,4 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msndindi&show_icons=true&locale=en&layout=compact&theme=radical" alt="msndindi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msndindi&show_icons=true&locale=en&theme=radical" alt="msndindi" /></p>
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
