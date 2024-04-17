@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React & Flask.**
 
 - 👯 I’m looking to collaborate on **new projects**
-- 😁💕 Checkout my portfolio (https://hopemutindi.vercel.app/)
+- 😁💕 Checkout my portfolio ; https://hopemutindi.vercel.app
 - 📝 I regularly write articles on [http://mutindihopehome.wordpress.com](http://mutindihopehome.wordpress.com)
 
 - 💬 Ask me about **Best Coding Practices**
