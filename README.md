@@ -75,15 +75,6 @@
 
 <p>😂 Here is a random joke that'll make you laugh!</p>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msndindi&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msndindi&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
 
 
 
