@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mutindi Hope</h1>
-<h3 align="center">A passionate Full Stack Developer & CyberSecurity Speacialist from Kenya</h3>
+<h3 align="center">A passionate Full Stack Developer & CyberSecurity (SOC) from Kenya based in Norway</h3>
 <img align="right" alt ="Coding" width="300"src=https://media.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msndindi&label=Profile%20views&color=0e75b6&style=flat" alt="msndindi" /> </p>
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **AI essentials.**
 
 - 👯 I’m looking to collaborate on **new projects**
-- 😁💕 Checkout my portfolio ; https://hopemutindi.vercel.app
+- 😁💕 Checkout my portfolio https://hopemutindi.vercel.app
 - 📝 I regularly write articles on [http://mutindihopehome.wordpress.com](http://mutindihopehome.wordpress.com)
 
 - 💬 Ask me about **Best Coding Practices**
@@ -19,42 +19,50 @@
 
 <h3>Languages and Tools:</h3>
 
-
-
 <p class="tech-icons" style="display: flex; gap: 25px; align-items: center; flex-wrap: wrap;">
 
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-         alt="HTML5" width="55" height="55"/>
-  </a>
+         alt="HTML5" width="55" height="55"/></a>
 
   <!-- CSS -->
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-         alt="CSS3" width="55" height="55"/>
-  </a>
+         alt="CSS3" width="55" height="55"/></a>
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-         alt="JavaScript" width="55" height="55"/>
-  </a>
+         alt="JavaScript" width="55" height="55"/></a>
 
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="Python" width="55" height="55"/>
-  </a>
+         alt="Python" width="55" height="55"/></a>
 
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-         alt="React" width="55" height="55"/>
-  </a>
+         alt="React" width="55" height="55"/></a>
 
+<h3>🧠 Core Skills</h3>
+
+<p>
+✔ Responsive Web Design (Mobile-First Development) <br/>
+✔ React UI Development <br/>
+✔ Modern JavaScript (ES6+) <br/>
+✔ Python Programming <br/>
+✔ API Integration <br/>
+✔ File Organization & Clean Project Structure <br/>
+✔ Debugging & Problem Solving <br/>
+✔ Git & Version Control <br/>
+✔ Writing Clean & Maintainable Code
 </p>
+
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://twitter.com/hope_mutindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ms_ndindi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mutindi-hope-b12192205?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mutindi-hope-b12192205?trk=contact-info" height="30" width="40" /></a>
@@ -66,6 +74,11 @@
 
 
 <p>😂 Here is a random joke that'll make you laugh!</p>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /><h3>📊 GitHub Stats</h3>
+
+
+
+
+
 
 
