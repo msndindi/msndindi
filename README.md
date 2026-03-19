@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm  Hope Mutindi</h1>
-<h3 align="center">A passionate Full Stack Developer & CyberSecurity (SOC) from Kenya based in Norway</h3>
+<h3 align="center">A passionate Full Stack Developer & CyberSecurity (SOC) </h3>
 <img align="right" alt ="Coding" width="300"src=https://media.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msndindi&label=Profile%20views&color=0e75b6&style=flat" alt="msndindi" /> </p>
