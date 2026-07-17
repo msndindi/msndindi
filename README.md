@@ -17,34 +17,28 @@
 
 - 📫 How to reach me **mutindihope14@gmail.com**
 
-<h3>Languages and Tools:</h3>
+<h3>Tech & tools:</h3>
 
 <p class="tech-icons" style="display: flex; gap: 25px; align-items: center; flex-wrap: wrap;">
 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-         alt="HTML5" width="55" height="55"/></a>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+<!-- CSS -->
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+<!-- JavaScript -->
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<!-- Python -->
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<!-- React -->
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+<!-- Figma -->
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+<!-- Docker -->
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<!-- Azure -->
+<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white">
 
-  <!-- CSS -->
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-         alt="CSS3" width="55" height="55"/></a>
+ 
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-         alt="JavaScript" width="55" height="55"/></a>
-
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="Python" width="55" height="55"/></a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-         alt="React" width="55" height="55"/></a>
 
 <h3>🧠 Core Skills</h3>
 
@@ -63,7 +57,6 @@
 <p>😂 Here is a random joke that'll make you laugh!</p>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=msndindi&theme=radical)
 
 
 
