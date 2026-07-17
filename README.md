@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mutindihope14@gmail.com**
 
-<h3>Tech & tools:</h3>
+<h3>🛠️ Tech Stack</h3>
 
 <p class="tech-icons" style="display: flex; gap: 25px; align-items: center; flex-wrap: wrap;">
 
