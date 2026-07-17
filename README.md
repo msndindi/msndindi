@@ -63,6 +63,8 @@
 <p>😂 Here is a random joke that'll make you laugh!</p>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=msndindi&theme=radical)
+
 
 
 
